@@ -1,0 +1,28 @@
+{
+  "beasts": [
+    {
+	    "id": "md",
+	    "legs": 6,
+	    "binomial": "Musca domestica",
+	    "commonName": "housefly"
+    },
+    {
+	    "id": "nr",
+	    "legs": 8,
+	    "binomial": "Neriene radiata",
+	    "commonName": "filmy dome spider"
+    },
+    {
+	    "id": "cc",
+	    "legs": 2,
+	    "binomial": "Corvus corone",
+	    "commonName": "carrion crow"
+    },
+    {
+	    "id": "fc",
+	    "legs": 4,
+	    "binomial": "Felis catus",
+	    "commonName": "cat"
+    }
+  ]
+}
