@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# vercel-apollo-server-react
 
 A worked example to accompany the [Stacking Vercel, a GraphQL Apollo Server and React ](https://preciouschicken.com/blog/posts/vercel-apollo-server-react/) tutorial.
 
