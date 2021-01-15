@@ -13,8 +13,6 @@ export const typeDefs = gql`
 		binomial: String
 		"a beast's name to you and I"
 		commonName: String
-		"taxonomy grouping"
-		taxClass: String
 	}
 
 	type Query {
